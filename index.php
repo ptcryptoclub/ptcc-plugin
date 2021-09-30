@@ -1,3 +1,4 @@
-if ( ! defined('ABSPATH')){
-  die;
-}
+<?php
+//silence is golden.
+
+
